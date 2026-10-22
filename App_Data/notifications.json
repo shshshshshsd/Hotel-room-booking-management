@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Title": "Payment Received",
+    "Message": "\nPayment of 835.00 SAR received for booking #1",
+    "CreatedAt": "2025-11-17T13:23:53.092321+03:00",
+    "UserId": 2
+  },
+  {
+    "Id": 2,
+    "Title": "Check In Reminder",
+    "Message": "Dear Ghazal Amro, Your [ booking #1 | Room #Al Yamama Standard ] has 0 days left to check in!",
+    "CreatedAt": "2025-11-17T13:25:19.9804097+03:00",
+    "UserId": 2
+  },
+  {
+    "Id": 3,
+    "Title": "Booking Check-In",
+    "Message": "Dear Ghazal Amro, Your booking #1 Room #Al Yamama Standard has been checked in!",
+    "CreatedAt": "2025-11-17T13:36:01.1717031+03:00",
+    "UserId": 2
+  },
+  {
+    "Id": 4,
+    "Title": "Payment Received",
+    "Message": "\nPayment of 1750.00 SAR received for booking #2",
+    "CreatedAt": "2025-11-18T09:20:01.6933425+03:00",
+    "UserId": 2
+  },
+  {
+    "Id": 5,
+    "Title": "Booking Check-In",
+    "Message": "Dear Ghazal Amro, Your booking #2 Room #Al Malik Suite has been checked in!",
+    "CreatedAt": "2025-11-18T09:20:59.2706261+03:00",
+    "UserId": 2
+  }
+]

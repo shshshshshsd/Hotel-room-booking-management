@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "CheckInDate": "2025-11-18T00:00:00",
+    "CheckOutDate": "2025-11-20T00:00:00",
+    "Status": "Checked-In",
+    "PaymentStatus": "Paid",
+    "TotalPrice": 835.00,
+    "AdditionalServices": "Spa, Meals, Transportation",
+    "SpecialRequests": "",
+    "AdminComments": "",
+    "BookingDate": "2025-11-17T13:15:52.4583046+03:00",
+    "UserId": 2,
+    "Room": {
+      "Id": 2,
+      "Name": "Al Yamama Standard",
+      "Type": "Standard",
+      "BasePrice": 350.0,
+      "Capacity": 2,
+      "Amenities": "WiFi, Smart TV, Air Conditioning, Prayer Mat",
+      "IsAvailable": true
+    },
+    "Customer": {
+      "Id": 1,
+      "Name": "Ghazal Amro",
+      "DateOfBirth": "0001-01-01T00:00:00",
+      "Phone": "0565595230",
+      "Email": "ghazal.alsharif0@gmail.com"
+    },
+    "GuestCount": 2,
+    "CancelPenalty": 0.0,
+    "CreatedAt": "2025-11-17T13:15:52.4583046+03:00"
+  },
+  {
+    "Id": 2,
+    "CheckInDate": "2025-11-20T00:00:00",
+    "CheckOutDate": "2025-11-22T00:00:00",
+    "Status": "Checked-In",
+    "PaymentStatus": "Paid",
+    "TotalPrice": 1750.00,
+    "AdditionalServices": "Spa",
+    "SpecialRequests": "",
+    "AdminComments": "",
+    "BookingDate": "2025-11-18T09:19:28.5265685+03:00",
+    "UserId": 2,
+    "Room": {
+      "Id": 6,
+      "Name": "Al Malik Suite",
+      "Type": "Suite",
+      "BasePrice": 850.0,
+      "Capacity": 4,
+      "Amenities": "WiFi, Smart TV, Air Conditioning, Living Area, Dining Table",
+      "IsAvailable": true
+    },
+    "Customer": {
+      "Id": 1,
+      "Name": "Ghazal Amro",
+      "DateOfBirth": "0001-01-01T00:00:00",
+      "Phone": "0565595230",
+      "Email": "ghazal.alsharif0@gmail.com"
+    },
+    "GuestCount": 1,
+    "CancelPenalty": 0.0,
+    "CreatedAt": "2025-11-18T09:19:28.5265685+03:00"
+  }
+]

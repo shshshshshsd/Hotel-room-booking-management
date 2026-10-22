@@ -1,0 +1,128 @@
+[
+  {
+    "Id": 1,
+    "Name": "Al Khaleej Standard",
+    "Type": "Standard",
+    "BasePrice": 350.0,
+    "Capacity": 2,
+    "Amenities": "WiFi, Smart TV, Air Conditioning, Arabic Coffee Set",
+    "IsAvailable": true
+  },
+  {
+    "Id": 2,
+    "Name": "Al Yamama Standard",
+    "Type": "Standard",
+    "BasePrice": 350.0,
+    "Capacity": 2,
+    "Amenities": "WiFi, Smart TV, Air Conditioning, Prayer Mat",
+    "IsAvailable": true
+  },
+  {
+    "Id": 3,
+    "Name": "Al Najm Deluxe",
+    "Type": "Deluxe",
+    "BasePrice": 550.0,
+    "Capacity": 3,
+    "Amenities": "WiFi, Smart TV, Air Conditioning, Mini Bar, City View",
+    "IsAvailable": true
+  },
+  {
+    "Id": 4,
+    "Name": "Al Qamar Deluxe",
+    "Type": "Deluxe",
+    "BasePrice": 550.0,
+    "Capacity": 3,
+    "Amenities": "WiFi, Smart TV, Air Conditioning, Mini Bar, Balcony",
+    "IsAvailable": true
+  },
+  {
+    "Id": 5,
+    "Name": "Al Shams Deluxe",
+    "Type": "Deluxe",
+    "BasePrice": 600.0,
+    "Capacity": 3,
+    "Amenities": "WiFi, Smart TV, Air Conditioning, Mini Bar, Mosque View",
+    "IsAvailable": true
+  },
+  {
+    "Id": 6,
+    "Name": "Al Malik Suite",
+    "Type": "Suite",
+    "BasePrice": 850.0,
+    "Capacity": 4,
+    "Amenities": "WiFi, Smart TV, Air Conditioning, Living Area, Dining Table",
+    "IsAvailable": true
+  },
+  {
+    "Id": 7,
+    "Name": "Al Amir Suite",
+    "Type": "Suite",
+    "BasePrice": 950.0,
+    "Capacity": 4,
+    "Amenities": "WiFi, Smart TV, Air Conditioning, Separate Lounge, Kitchenette",
+    "IsAvailable": true
+  },
+  {
+    "Id": 8,
+    "Name": "Al Aila Family Suite",
+    "Type": "Family",
+    "BasePrice": 1200.0,
+    "Capacity": 6,
+    "Amenities": "WiFi, Smart TV, Air Conditioning, Two Bedrooms, Kitchenette",
+    "IsAvailable": true
+  },
+  {
+    "Id": 9,
+    "Name": "Al Mamlaka Royal Suite",
+    "Type": "Royal",
+    "BasePrice": 2000.0,
+    "Capacity": 4,
+    "Amenities": "WiFi, Smart TV, Air Conditioning, Private Lounge, Dining Room, Jacuzzi",
+    "IsAvailable": true
+  },
+  {
+    "Id": 10,
+    "Name": "Room VIP 001",
+    "Type": "Deluxe",
+    "BasePrice": 500.0,
+    "Capacity": 3,
+    "Amenities": "every things",
+    "IsAvailable": true
+  },
+  {
+    "Id": 12,
+    "Name": "Al Riyadh Presidential",
+    "Type": "Presidential",
+    "BasePrice": 3500.0,
+    "Capacity": 6,
+    "Amenities": "WiFi, Smart TV, Air Conditioning, Private Elevator, Meeting Room, Private Chef Service",
+    "IsAvailable": true
+  },
+  {
+    "Id": 11,
+    "Name": "Room VIP 020",
+    "Type": "Family",
+    "BasePrice": 550.0,
+    "Capacity": 6,
+    "Amenities": "every things",
+    "IsAvailable": true
+  },
+  {
+    "Id": 13,
+    "Name": "Ocean View 101",
+    "Type": "Suite",
+    "BasePrice": 258.0,
+    "Capacity": 3,
+    "Amenities": "",
+    "IsAvailable": true
+  },
+  {
+    "Id": 14,
+    "Name": "klj 222",
+    "Type": "Family",
+    "BasePrice": 30.0,
+    "Capacity": 5,
+    "Amenities": "",
+    "IsAvailable": true
+  }
+]
